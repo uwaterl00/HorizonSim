@@ -4,9 +4,9 @@
 
 ---
 
-## Why This Exists: PhysBliss's Commercial Mission
+## Why This Exists: PhysBliss at Waterloo
 
-PhysBliss is running **8 commitment tests** with CFD engineers at mid-to-large
+PhysBliss is presumably running **8 commitment tests** with CFD engineers at mid-to-large
 engineering firms (aerospace, automotive, energy) to answer one question:
 
 > *Is reducing simulation time from days to minutes a "must-have" urgent enough
