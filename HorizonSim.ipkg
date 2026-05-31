@@ -1,0 +1,19 @@
+package HorizonSim
+
+authors    = "MJ Stephenson (formalized in Idris 2)"
+version    = 0.1.0
+sourcedir  = "src"
+brief      = "Formally verified universal conductivity in disordered holographic theories"
+
+modules = HorizonSim.Prelude
+        , HorizonSim.Algebra.Matrix2x2
+        , HorizonSim.Algebra.Det
+        , HorizonSim.Algebra.HodgeDuality
+        , HorizonSim.PDE.AbstractSobolev
+        , HorizonSim.PDE.HydrostaticEq
+        , HorizonSim.Conductivity.Tensor
+        , HorizonSim.Conductivity.DualityIdentity
+        , HorizonSim.Conductivity.Universal
+        , HorizonSim.Bounds.CauchySchwarz
+        , HorizonSim.Transition.Percolation
+        , HorizonSim.Main
