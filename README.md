@@ -100,8 +100,8 @@ The proof plays three roles in the sales process:
 
 Formal verification in **Idris 2** of the four theorems from:
 
-> M. J. Stephenson, *"Formal Verification of Universal Conductivity in Disordered
-> Holographic Theories"*, 2026 — itself a Lean 4 formalization of Stephenson 2023.
+> *"Formal Verification of Universal Conductivity in Disordered
+> Holographic Theories"*, 2026 — itself a Lean 4 formalization
 
 ---
 
